@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'da em iu chi',
     messDesc: 'nao len hn thi e cho chi di choi nha chi iu',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://iukhngannhat.github.io/WomenDay/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
